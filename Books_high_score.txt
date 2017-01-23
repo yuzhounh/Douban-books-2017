@@ -1,4 +1,7 @@
-2017-01-23 16:06:31
+2017-01-23 16:51:41
+
+Books with scores higher than a certain threshold.
+Total number: 3806 
 
 ID, rating, votes, title
 01007305, 9.5, 112791, ºìÂ¥ÃÎ
