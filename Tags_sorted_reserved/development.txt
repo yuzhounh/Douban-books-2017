@@ -1,0 +1,35 @@
+2017-01-23 16:17:59
+Tag: development
+The number of books: 30 
+
+ID, rating, votes, title
+1140457, 9.1, 1184, 敏捷软件开发
+1812833, 8.7, 1068, 穷人的银行家
+1780035, 8.6, 645, 如何改变世界
+1436131, 9.0, 289, expert one-on-one J2EE Development without EJB 中文版
+2338464, 8.9, 302, 鸟哥的Linux私房菜
+3233097, 8.7, 245, Capitalism with Chinese Characteristics
+1099376, 8.0, 155, 解析极限编程
+3604295, 7.6, 184, iPhone开发基础教程
+1231231, 7.5, 180, Junit in Action 中文版
+5338025, 7.7, 116, iPhone开发秘籍 （第2版）
+1087300, 9.0, 41, 发展、地理学与经济理论
+3183403, 8.7, 45, Personal Development for Smart People
+4309469, 9.4, 28, FYI For Your Improvement
+3059288, 8.1, 54, 人类学、发展与后现代挑战
+1912252, 8.7, 27, 理解孩子的成长
+1753512, 8.8, 21, Rural China Takes Off
+6971366, 7.5, 39, PostgreSQL 数据库内核分析
+2831333, 8.2, 24, Embedded Autonomy
+6530430, 8.1, 25, Head First Android Development
+26386453, 7.9, 25, Swifter : 100 个 Swift 开发必备 Tip
+4875596, 7.2, 35, Android应用开发详解
+4899924, 7.6, 26, Learn iPhone and iPad cocos2d Game Development
+1790308, 6.9, 43, ASP.NET 2.0开发指南
+1432222, 7.8, 18, SWT/JFace in Action
+1243881, 7.5, 21, Ant权威指南
+4008765, 7.4, 18, Beginning iPhone 3 Development
+2385348, 7.7, 14, The Anti-Politics Machine
+6828842, 7.6, 12, Yii 1.1 Application Development Cookbook
+2797200, 7.5, 10, Markets and States in Tropical Africa
+3747328, 7.1, 12, Mobile Design and Development
