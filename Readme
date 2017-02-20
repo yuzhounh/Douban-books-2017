@@ -1,6 +1,9 @@
 Douban books 
 Copyright (C) 2017 Jing Wang
 
+Tags
+https://raw.githubusercontent.com/yuzhounh/Douban_books_2017/master/Tags.txt
+
 Books
 th0, rating>=0.0, votes>=0,     number=129193
 th1, rating>=9.0, votes>=1000,  number=1001
