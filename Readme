@@ -15,7 +15,7 @@ th6, rating>=8.0, votes>=300,   number=12752
 th7, rating>=0.0, votes>=10000, number=725
 th8, rating>=8.0, votes>=1000,  number=4862
 high score,                     number=3806
-reordered,                      number=250
+top250, reordered,              number=250
 
 Contact information:
 Jing Wang
