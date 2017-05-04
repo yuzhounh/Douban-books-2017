@@ -17,6 +17,10 @@ th8, rating>=8.0, votes>=1000,  number=4862
 high score,                     number=3806
 top250, reordered,              number=250
 
+Note
+The total number of books in Douban is estimated to be 3E7. 
+Therefore, the above results cover about 0.5% of all books. 
+
 Contact information:
 Jing Wang
 wangjing0@seu.edu.cn
