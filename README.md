@@ -1,6 +1,9 @@
 # Douban books 
 Copyright (C) 2017 Jing Wang
 
+Update: https://github.com/yuzhounh/Douban-books-2020  
+2020-7-5 19:47:57  
+
 ## Tags
 https://github.com/yuzhounh/Douban-books-2017/blob/master/Tags.txt
 
