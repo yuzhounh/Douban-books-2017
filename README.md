@@ -2,7 +2,7 @@
 Copyright (C) 2017 Jing Wang
 
 ## Tags
-https://raw.githubusercontent.com/yuzhounh/Douban_books_2017/master/Tags.txt
+https://github.com/yuzhounh/Douban-books-2017/blob/master/Tags.txt
 
 ## Books
 th0, rating>=0.0, votes>=0,     number=129193  
